@@ -5,6 +5,9 @@ Descargar el Google Drive CLI Client desde aquí:
 
 https://github.com/prasmussen/gdrive
 
+
+Con gdrive-linux-x64 help tenemos una guia muy completa
+
 Lo ejecuta y debe seguir los pasos::
 
 	$ gdrive-linux-x64 list
@@ -37,7 +40,7 @@ Lo debemos compartir::
 	$ gdrive-linux-x64 share 1p47OzaHRvdZ5qyD0M3vewF6RJqf5fqXQ
 	Granted reader permission to anyone
 
-Consultamos el archivo que subimos:
+Consultamos el archivo que subimos::
 
 	gdrive-linux-x64 info 1p47OzaHRvdZ5qyD0M3vewF6RJqf5fqXQ
 	Id: 1p47OzaHRvdZ5qyD0M3vewF6RJqf5fqXQ
