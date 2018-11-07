@@ -58,4 +58,17 @@ Consultamos el archivo que subimos::
 
 
 
+Si queremos utilizar otra cuenta de Google Drive::
+
+	$ gdrive-linux-x64 about
+	Authentication needed
+	Go to the following url in your browser:
+	https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=367116221053-7n7vf5akeru7on6o2gjinrecpdOe99eg.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&state=state
+
+	Enter verification code: 6/jgCGd9lkk1F_ufnzA1a2C7Eo3nE_7k27u3gAxbcRc1vL-bRr7BPf073CG
+	User: CONSIS SCM, consisscm@gmail.com
+	Used: 2.8 GB
+	Free: 13.3 GB
+	Total: 16.1 GB
+	Max upload size: 5.2 TB
 
